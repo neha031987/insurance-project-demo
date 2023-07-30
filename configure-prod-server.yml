@@ -1,3 +1,4 @@
+---
 - hosts: prod-server
   become: true
   tasks:
